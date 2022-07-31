@@ -28,5 +28,10 @@ header {
     display: flex;
     height: 100%;
     align-items: center;
-    
+
+}
+
+.left-nav nav ul {
+    list-style-type: none;
+    display: flex;
 }
