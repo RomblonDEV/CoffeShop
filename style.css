@@ -35,3 +35,10 @@ header {
     list-style-type: none;
     display: flex;
 }
+
+.left-nav nav ul li {
+    text-transform: uppercase;
+    padding-left: 24px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+}
